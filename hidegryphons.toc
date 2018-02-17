@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Hide Gryphons
+## Notes: Hides the animals around the UI bars.
+## Author: Snoe
+hidegryphons.lua
